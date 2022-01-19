@@ -1,21 +1,18 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Littledb" />
-
-  &#xa0;
-
+  <img src="https://ik.imagekit.io/orb/bank_bl8qVd2IE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1637803496240" alt="Littledb" width="200" style="display: block; margin: auto" />
   <!-- <a href="https://littledb.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Littledb</h1>
+<h1 align="center">Bad Bank</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/littledb?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oscartic/littledb?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/littledb?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oscartic/littledb?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/littledb?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oscartic/littledb?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/littledb?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/oscartic/littledb?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/littledb?color=56BEB8" /> -->
 
@@ -61,8 +58,6 @@ The following tools were used in this project:
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -72,16 +67,16 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/littledb
+$ git clone git@github.com:Oscartic/badBank-front-back.git
 
 # Access
-$ cd littledb
+$ cd badBank-front-back
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ node index.js
 
 # The server will initialize in the <http://localhost:3000>
 ```
@@ -91,7 +86,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/oscartic" target="_blank">MIT</a>
 
 &#xa0;
 
